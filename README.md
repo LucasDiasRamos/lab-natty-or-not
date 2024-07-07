@@ -1,51 +1,32 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O Objetivo desse projeto foi de realizar uma apresentação pessoal em uma rede social utilizando um texto gerado por IA, na qual está tentanto ser menos robo e mais Humano
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei pedindo para criar uma apresentação minha pessoal e pedi para utilizar as informações na qual ele possuia de chats antigos 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este foi o resultado
+Olá, pessoal!
+
+Sou Lucas e estou super animado(a) em me conectar com vocês aqui!
+
+Tenho uma grande paixão por programação e manipulação de dados, especialmente com Python. Adoro compartilhar minhas experiências, aprendizados e dicas sobre essa tecnologia. Acredito que as redes sociais são uma plataforma incrível para troca de conhecimento e crescimento mútuo, e estou ansioso(a) para aprender com vocês também!
+
+Quando não estou mergulhado(a) em projetos de desenvolvimento, gosto de explorar novos cursos e aprimorar minhas habilidades. Recentemente, completei o módulo Google Cloud Computing Foundations: Cloud Computing Fundamentals em parceria com o Google e o SENAI, e continuo avançando nos próximos módulos.
+
+Estou sempre em busca de novas aventuras e adoro conhecer pessoas inspiradoras. Se você também se interessa por programação, manipulação de dados, ou Google Cloud, vamos conversar! Gosto muito de trocar ideias e acredito que podemos crescer juntos. Sinta-se à vontade para enviar uma mensagem, comentar ou simplesmente dar um "oi"!
+
+Obrigado por estarem aqui e vamos nos conectar!
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É bem dificil fazer com que as IAs ainda sejam bem naturais pois ainda não estão evoluidas a este ponto 
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
